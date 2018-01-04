@@ -7,6 +7,6 @@ rename: hours
 
 - start virtualenv
 
-- maybe upgrade: pip install -U -r requirements.txt
+- pip install -U -r requirements.txt
 
 - ./manage.py startapp

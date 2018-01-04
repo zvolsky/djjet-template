@@ -4,3 +4,4 @@ git+https://github.com/zvolsky/django-jet
 #django-smoke-tests>=0.1.4
 git+https://github.com/zvolsky/django-smoke-tests
 pytz>=2017.3
+python-decouple>=3.1
