@@ -1,0 +1,6 @@
+Django>=2.0
+#django-jet>=1.0.6
+git+https://github.com/zvolsky/django-jet
+#django-smoke-tests>=0.1.4
+git+https://github.com/zvolsky/django-smoke-tests
+pytz>=2017.3
