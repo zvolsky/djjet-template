@@ -5,3 +5,4 @@ git+https://github.com/zvolsky/django-jet
 git+https://github.com/zvolsky/django-smoke-tests
 pytz>=2017.3
 python-decouple>=3.1
+django-generate-secret-key>=1.0.2
